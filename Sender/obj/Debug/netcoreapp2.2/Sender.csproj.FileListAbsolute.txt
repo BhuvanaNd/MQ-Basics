@@ -1,0 +1,11 @@
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.csprojAssemblyReference.cache
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.csproj.CoreCompileInputs.cache
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.AssemblyInfoInputs.cache
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.AssemblyInfo.cs
+/Users/bhuvana/Desktop/GitProject1/Sender/bin/Debug/netcoreapp2.2/Sender.deps.json
+/Users/bhuvana/Desktop/GitProject1/Sender/bin/Debug/netcoreapp2.2/Sender.runtimeconfig.json
+/Users/bhuvana/Desktop/GitProject1/Sender/bin/Debug/netcoreapp2.2/Sender.runtimeconfig.dev.json
+/Users/bhuvana/Desktop/GitProject1/Sender/bin/Debug/netcoreapp2.2/Sender.dll
+/Users/bhuvana/Desktop/GitProject1/Sender/bin/Debug/netcoreapp2.2/Sender.pdb
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.dll
+/Users/bhuvana/Desktop/GitProject1/Sender/obj/Debug/netcoreapp2.2/Sender.pdb

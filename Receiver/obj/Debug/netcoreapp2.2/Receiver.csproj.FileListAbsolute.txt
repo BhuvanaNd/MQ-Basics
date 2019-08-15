@@ -1,0 +1,11 @@
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.csprojAssemblyReference.cache
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.csproj.CoreCompileInputs.cache
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.AssemblyInfoInputs.cache
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.AssemblyInfo.cs
+/Users/bhuvana/Desktop/GitProject1/Receiver/bin/Debug/netcoreapp2.2/Receiver.deps.json
+/Users/bhuvana/Desktop/GitProject1/Receiver/bin/Debug/netcoreapp2.2/Receiver.runtimeconfig.json
+/Users/bhuvana/Desktop/GitProject1/Receiver/bin/Debug/netcoreapp2.2/Receiver.runtimeconfig.dev.json
+/Users/bhuvana/Desktop/GitProject1/Receiver/bin/Debug/netcoreapp2.2/Receiver.dll
+/Users/bhuvana/Desktop/GitProject1/Receiver/bin/Debug/netcoreapp2.2/Receiver.pdb
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.dll
+/Users/bhuvana/Desktop/GitProject1/Receiver/obj/Debug/netcoreapp2.2/Receiver.pdb
